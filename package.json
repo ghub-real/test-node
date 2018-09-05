@@ -18,5 +18,10 @@
   "homepage": "https://github.com/ghub-real/test-node#readme",
   "dependencies": {
     "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0"
   }
 }
