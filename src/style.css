@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('./fonts/Roboto-Regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.hello {
+   color: red;
+   font-family: 'Roboto';
+}
